@@ -31,7 +31,6 @@ cd conversational-superagent-portfolio
 |---|---|
 | **Stack** | React (Vite), Tailwind CSS v4 |
 | **Focus** | Agentic UX, supervision + specialist agents, grounded-style responses (mock), evaluation-friendly flows |
-| **Audience** | Recruiters and hiring managers for **senior / staff / principal PM** roles (AI, platform, growth) |
 
 ---
 
