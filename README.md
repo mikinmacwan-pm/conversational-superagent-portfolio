@@ -5,7 +5,23 @@
 <!-- Optional: add a screenshot or GIF here -->
 <!-- ![Demo](docs/screenshot.png) -->
 
-*Live demo:* add a Vercel/Netlify URL here after you deploy (optional but recommended for recruiters).
+## See the demo
+
+**GitHub only hosts this repository’s files** — it does not run the React app in the browser. Visitors land on the repo page and see code unless you give them another way in:
+
+| How | What people do |
+|-----|----------------|
+| **Hosted site (recommended)** | Open a **live URL** after you deploy (Vercel, Netlify, Cloudflare Pages, etc.). *Add that link on the line below when you have it — recruiters can click it with zero setup.* |
+| **Run locally** | Clone the repo, run `npm install` and `npm run dev`, open the local URL (see [Tech & run locally](#tech--run-locally)). |
+
+**Live demo:** *Not deployed yet — add your URL here, e.g.* `https://your-app.vercel.app`
+
+**Clone this repo:**
+
+```bash
+git clone https://github.com/mikinmacwan-pm/conversational-superagent-portfolio.git
+cd conversational-superagent-portfolio
+```
 
 ---
 
