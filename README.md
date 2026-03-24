@@ -59,7 +59,7 @@ Areas I own or drive include:
 
 I care about **measurable** outcomes: activation, cross-product adoption, workflow completion, and AI-powered self-serve engagement.
 
-This repository is a **public, sanitized sketch** of the UX and product patterns above—intended for discussion with recruiters and hiring managers, not as a representation of any company’s production system.
+This repository is a **public, sanitized sketch** of the UX and product patterns above—intended for discussion, not as a representation of any company’s production system.
 
 ---
 
