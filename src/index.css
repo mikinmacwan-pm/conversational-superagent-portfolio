@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/*
+ * Light “web app” chat tokens — aligned to the Custom GPT.pdf flow (category picker + structured report).
+ * Swap hex values here when you have official design-system exports from Figma.
+ */
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-sa-accent: #ea580c;
+  --color-sa-accent-hover: #c2410c;
+  --color-sa-accent-muted: #f97316;
+  --color-sa-accent-soft: #fff7ed;
+
+  --color-sa-canvas: #f4f4f5;
+  --color-sa-surface: #ffffff;
+  --color-sa-surface-raised: #fafafa;
+  --color-sa-border: #e4e4e7;
+  --color-sa-muted: #71717a;
+  --color-sa-text: #18181b;
+  --color-sa-text-secondary: #52525b;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  display: block;
+  text-align: initial;
+  border: none;
+  min-height: 100svh;
+}
